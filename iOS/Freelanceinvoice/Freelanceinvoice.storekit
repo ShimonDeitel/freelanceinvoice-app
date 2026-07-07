@@ -1,0 +1,40 @@
+{
+  "identifier": "storekit",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Freelanceinvoice Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Overdue reminders and per-client earnings summary",
+              "displayName": "Freelanceinvoice Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "freelanceinvoice_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Freelanceinvoice Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
